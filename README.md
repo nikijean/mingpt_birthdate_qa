@@ -40,9 +40,9 @@ To train and evaluate on this variant form of attention, do the following:
 ```
 
 [1] Radford, A., Narasimhan, K., Salimans, T., and Sutskever, I. Improving language understanding with
-unsupervised learning. Technical report, OpenAI (2018).
+unsupervised learning. Technical report, OpenAI (2018).\
 [2] Raffel, C., Shazeer, N., Roberts, A., Lee, K., Narang, S., Matena, M., Zhou, Y., Li, W., and
 Liu, P. J. Exploring the limits of transfer learning with a unified text-to-text transformer. Journal of Machine
-Learning Research 21, 140 (2020), 1–67.
+Learning Research 21, 140 (2020), 1–67.\
 [3] Tay, Y., Bahri, D., Metzler, D., Juan, D.-C., Zhao, Z., and Zheng, C. Synthesizer: Rethinking
 self-attention in transformer models. arXiv preprint arXiv:2005.00743 (2020).
