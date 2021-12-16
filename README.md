@@ -1,6 +1,6 @@
 # mingpt_birthdate_qa
 
-This project has been slightly adapted from an assignment in Chris Manning's professional level class at Stanford called Deep Learning for NLP, aka  XCS224N. The codebase has forked Andrej Karpathy’s [minGPT](https://github.com/karpathy/minGPT), based on the Transformer language model of OpenAI,
+This project has been slightly adapted from an assignment in Chris Manning's class at Stanford called Deep Learning for NLP, aka  XCS224N. The codebase has forked Andrej Karpathy’s [minGPT](https://github.com/karpathy/minGPT), based on the Transformer language model of OpenAI,
 originally described in this paper [1] 
 
 The first goal of the assignment was to pretrain the model on Wikipedia data and then fine tune it on birthplace QA data, in the form of the following: 
